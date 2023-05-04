@@ -1,5 +1,5 @@
 {
-  "name": "graceful",
+  "name": "graceful_rohit",
   "about_url": "https://meta.discourse.org/t/a-graceful-theme-for-discourse/93040/1",
   "license_url": "https://meta.discourse.org/t/a-graceful-theme-for-discourse/93040/1",
   "assets": {
@@ -7,8 +7,8 @@
   },
   "color_schemes": {
     "Graceful": {
-      "primary": "333",
-      "secondary": "ffffff",
+      "primary": "000",
+      "secondary": "383838",
       "tertiary": "88af8e",
       "quaternary": "88af8e",
       "header_background": "ffffff",
